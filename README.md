@@ -1,0 +1,7 @@
+- 👋 Olá, sou João Carlos - @jcarlosv17
+- 👀 Estou interessado em um emprego Dev
+- 🌱 Atualmente estou fazendo faculdade de analise e desenvolvimento de sistemas e estou me especializando em python.
+- 💞️ Procuro colaborar sendo um desenvolvedor Python júnior
+- 📫 Como entrar em contato comigo, meu Whatsapp é o 81 973418828 ou 81984893032
+- 😄 Pronomes: João Carlos, Pião, Patoxy, Jc...
+- ⚡ Curiosidade: sou uma pessoal bastante curiosa e resiliente.
